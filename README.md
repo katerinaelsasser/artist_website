@@ -1,15 +1,23 @@
-# TITLE
+# Ava-Rose Welch Art Website
 <INSERT TEXT ABOUT THE OVERAL PAGE AND WHAT IT IS FOR>
 ## UX
 ### SURFACE
 
 <INSERT TEXT HERE FOR SURFACE AND EXAPLIN FOLLOWING MOCKUPS>
 
-#### Mockup 1
+#### Mockup 1 - Home Page
 [Mobile Version]()
 [Laptop Version]()
 
-#### Mockup 2
+#### Mockup 2 - About Page
+[Mobile Version]()
+[Laptop Version]()
+
+#### Mockup 3 - Gallery Page
+[Mobile Version]()
+[Laptop Version]()
+
+#### Mockup 4 - Request Page
 [Mobile Version]()
 [Laptop Version]()
 
